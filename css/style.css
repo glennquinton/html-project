@@ -1,0 +1,18 @@
+/*styling is done on style.css basically styling using id*/
+#glenn{
+	color: gray;
+
+}
+/*styling using class*/
+#.otana{
+	  font-family: verdana;
+	  text-align: center;
+
+}
+/*styling using tagname*/
+p{
+	text-decoration-color: gray;
+	text-align: center;
+	font-family: cursive;
+	
+}
